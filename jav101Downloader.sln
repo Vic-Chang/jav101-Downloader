@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jav101Downloader", "jav101Downloader\Jav101Downloader.csproj", "{06476BD4-9057-4F4E-85E9-A21CB8180F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Debug|x64.Build.0 = Debug|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Debug|x86.Build.0 = Debug|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Release|x64.ActiveCfg = Release|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Release|x64.Build.0 = Release|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Release|x86.ActiveCfg = Release|Any CPU
+		{06476BD4-9057-4F4E-85E9-A21CB8180F8D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {134556F4-8003-4E66-8240-9547BC590112}
+	EndGlobalSection
+EndGlobal
